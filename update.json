@@ -3,8 +3,8 @@
   "version": "0.1.4",
   "version_code": 5,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/552721775",
-  "apk_size": 74558907,
-  "apk_sha256": "81bf38db0d0b6d9aba52c9eea169f49b642f5704ecf281cd0565ae4d342bfb3c",
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/552730653",
+  "apk_size": 74560178,
+  "apk_sha256": "8b981460c549191a9ff31b0fd1dfa5ce53ad87e497318ed7a49ded3e0c11c1e8",
   "release_notes": "主界面更好看，突破和离线反馈更清楚，前三阶手感更快。"
 }
