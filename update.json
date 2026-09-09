@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.1",
-  "version_code": 2,
+  "version": "0.1.2",
+  "version_code": 3,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/552350844",
-  "apk_size": 74527052,
-  "apk_sha256": "e4c1042ce7af80995a85510d471ee874c0deab222ec17e1c4a4d1afab4f2bfc0",
-  "release_notes": "完成游戏内检查、下载并覆盖安装新版本的验证。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/552638595",
+  "apk_size": 74547388,
+  "apk_sha256": "aa26aad4660f77e2171282d02d93998571747faaac7d5dacf80a7c6c10cac5fe",
+  "release_notes": "第一个可玩闭环：挂机获得修为、突破境界、离线补发（最多 8 小时）。"
 }
