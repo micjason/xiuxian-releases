@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.5",
-  "version_code": 6,
+  "version": "0.1.6",
+  "version_code": 7,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554079762",
-  "apk_size": 74578982,
-  "apk_sha256": "9266ecf6234efaa9bfc9887047c391ab591a078db4fef4ccd24ed3a0db22a051",
-  "release_notes": "修好覆盖安装：必须发布更高 versionCode，并把安装包读权限交给系统安装器。0.1.4 及更早请先 USB 装上这一版。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554465417",
+  "apk_size": 74638112,
+  "apk_sha256": "6c5e7969f6c5c01ec15ff7316b31c2a2500ee6505ee01eeae12d894d18b51aa0",
+  "release_notes": "加入历练循环：挂机打怪、行囊、装备、功法、设置。versionCode 7，可覆盖 0.1.5。"
 }
