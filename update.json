@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.11",
-  "version_code": 12,
+  "version": "0.1.12",
+  "version_code": 13,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554762031",
-  "apk_size": 74648316,
-  "apk_sha256": "b1551c6caae4ffe63a823329d08e0a1a6525d654d2e68805fa9bec2a4d27f66c",
-  "release_notes": "五页显示：公共顶栏看境界/修为/战力；行囊点开对比；历练列出地点墙；功法已学置顶。供已装 0.1.10 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554793356",
+  "apk_size": 74651732,
+  "apk_sha256": "15e8dff502b6d640834654a9ab2e3b926e221556e5e68dc1b82fcde3b8e43030",
+  "release_notes": "字号与占位：顶栏两行看境界/修为/战力；突破和挑战做主按钮；地点列表收成短行。供已装 0.1.11 的手机热更。"
 }
