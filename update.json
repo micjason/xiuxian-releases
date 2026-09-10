@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.9",
-  "version_code": 10,
+  "version": "0.1.10",
+  "version_code": 11,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554575809",
-  "apk_size": 74639484,
-  "apk_sha256": "54be277cd5f3ff6ac09e8b2cd4424f68ffa9b318aa0100ce5942d483f468ee9b",
-  "release_notes": "脱离电脑自测热更：从 0.1.8 覆盖到 0.1.9。versionCode 10。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554650835",
+  "apk_size": 74643316,
+  "apk_sha256": "cc296bc8218fb0b3b965b20b7457b51cec6d35d8c6f3708bc461b7e2dc4b62ce",
+  "release_notes": "玩法调表：前三阶放慢、修为接到金丹、掉落节流、关卡墙抬高、行囊对比战力。供已装 0.1.9 的手机热更。"
 }
