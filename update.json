@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.4",
-  "version_code": 5,
+  "version": "0.1.5",
+  "version_code": 6,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/552742158",
-  "apk_size": 74560682,
-  "apk_sha256": "a68b9b5b2831ac867b40b92cd6243fc2937b69f36ffc2e5a0a75b389fd1d2667",
-  "release_notes": "主界面更好看，突破和离线反馈更清楚，前三阶手感更快。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554079762",
+  "apk_size": 74578982,
+  "apk_sha256": "9266ecf6234efaa9bfc9887047c391ab591a078db4fef4ccd24ed3a0db22a051",
+  "release_notes": "修好覆盖安装：必须发布更高 versionCode，并把安装包读权限交给系统安装器。0.1.4 及更早请先 USB 装上这一版。"
 }
