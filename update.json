@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.8",
-  "version_code": 9,
+  "version": "0.1.9",
+  "version_code": 10,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554550059",
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554575809",
   "apk_size": 74639484,
-  "apk_sha256": "34a3310fdb98aa991679f2f53c9f8547dec3e752488c279599b4763f744058dc",
-  "release_notes": "验证 0.1.7 覆盖安装：PackageInstaller 会话应显示 0.1.8，而不是已装的 0.1.7。versionCode 9。"
+  "apk_sha256": "54be277cd5f3ff6ac09e8b2cd4424f68ffa9b318aa0100ce5942d483f468ee9b",
+  "release_notes": "脱离电脑自测热更：从 0.1.8 覆盖到 0.1.9。versionCode 10。"
 }
