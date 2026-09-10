@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.10",
-  "version_code": 11,
+  "version": "0.1.11",
+  "version_code": 12,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554650835",
-  "apk_size": 74643316,
-  "apk_sha256": "cc296bc8218fb0b3b965b20b7457b51cec6d35d8c6f3708bc461b7e2dc4b62ce",
-  "release_notes": "玩法调表：前三阶放慢、修为接到金丹、掉落节流、关卡墙抬高、行囊对比战力。供已装 0.1.9 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554762031",
+  "apk_size": 74648316,
+  "apk_sha256": "b1551c6caae4ffe63a823329d08e0a1a6525d654d2e68805fa9bec2a4d27f66c",
+  "release_notes": "五页显示：公共顶栏看境界/修为/战力；行囊点开对比；历练列出地点墙；功法已学置顶。供已装 0.1.10 的手机热更。"
 }
