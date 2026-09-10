@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.6",
-  "version_code": 7,
+  "version": "0.1.7",
+  "version_code": 8,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554465417",
-  "apk_size": 74638112,
-  "apk_sha256": "6c5e7969f6c5c01ec15ff7316b31c2a2500ee6505ee01eeae12d894d18b51aa0",
-  "release_notes": "加入历练循环：挂机打怪、行囊、装备、功法、设置。versionCode 7，可覆盖 0.1.5。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554540367",
+  "apk_size": 74639484,
+  "apk_sha256": "a43968887d59b10866ed9141544c4808cdea9dcd8ef62f19cbf6d43a1e006053",
+  "release_notes": "修复覆盖安装：系统安装器改为 PackageInstaller 会话，避免 ColorOS 读不到下载包时显示已装的 0.1.5。versionCode 8。"
 }
