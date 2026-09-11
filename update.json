@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.14",
-  "version_code": 15,
+  "version": "0.1.15",
+  "version_code": 16,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556525118",
-  "apk_size": 74680449,
-  "apk_sha256": "1eba8f033e84458e5af9a09ea4ecaaa4492c40ec6036db8c21fe8813963677d4",
-  "release_notes": "五小时循环：同名合并、关卡短板墙、一地三层、同阶套装、功法小成、丹药限时、材料温养、历练见闻。旧档可进。供已装 0.1.13 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556636274",
+  "apk_size": 74695628,
+  "apk_sha256": "135ba1eb9b9e1939637c057da62e797f072b79b86f42a6707b4a7a4b5bf29042",
+  "release_notes": "功法运转：路数生效、运转栏、功法页可点、天阶锁到金丹初、古碑台功法墙。旧档可进。供已装 0.1.14 的手机热更。"
 }
