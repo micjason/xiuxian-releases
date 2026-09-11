@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.15",
-  "version_code": 16,
+  "version": "0.6.0",
+  "version_code": 17,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556636274",
-  "apk_size": 74695628,
-  "apk_sha256": "135ba1eb9b9e1939637c057da62e797f072b79b86f42a6707b4a7a4b5bf29042",
-  "release_notes": "功法运转：路数生效、运转栏、功法页可点、天阶锁到金丹初、古碑台功法墙。旧档可进。供已装 0.1.14 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/",
+  "apk_size": 74786756,
+  "apk_sha256": "8039b4fa0479a2bf52af8c0b047479ae09ef5f33aae62a9dcaeb5bbb7a9f83a7",
+  "release_notes": "长线修仙总架构：新增洞府生产、NPC 门派、丹器研究、秘境奇遇、灵兽培养、洞天据点、软飞升与 90/180 天传承终局；扩展至炼虚境界和四个新位面。存档 schema 5 兼容 v1–v4。"
 }
