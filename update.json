@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.12",
-  "version_code": 13,
+  "version": "0.1.13",
+  "version_code": 14,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/554793356",
-  "apk_size": 74651732,
-  "apk_sha256": "15e8dff502b6d640834654a9ab2e3b926e221556e5e68dc1b82fcde3b8e43030",
-  "release_notes": "字号与占位：顶栏两行看境界/修为/战力；突破和挑战做主按钮；地点列表收成短行。供已装 0.1.11 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556335040",
+  "apk_size": 74661692,
+  "apk_sha256": "7b1d446db44e73ab68b7404df53cc71e48d6cf343aac10d60ce083b1096ea165",
+  "release_notes": "行囊改版：角色居中五槽环绕；已穿不进袋；网格按全部/装备/丹药/材料/功法分类；点开弹窗看攻防速、词条和战力变化。供已装 0.1.12 的手机热更。"
 }
