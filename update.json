@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.1.13",
-  "version_code": 14,
+  "version": "0.1.14",
+  "version_code": 15,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556335040",
-  "apk_size": 74661692,
-  "apk_sha256": "7b1d446db44e73ab68b7404df53cc71e48d6cf343aac10d60ce083b1096ea165",
-  "release_notes": "行囊改版：角色居中五槽环绕；已穿不进袋；网格按全部/装备/丹药/材料/功法分类；点开弹窗看攻防速、词条和战力变化。供已装 0.1.12 的手机热更。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556525118",
+  "apk_size": 74680449,
+  "apk_sha256": "1eba8f033e84458e5af9a09ea4ecaaa4492c40ec6036db8c21fe8813963677d4",
+  "release_notes": "五小时循环：同名合并、关卡短板墙、一地三层、同阶套装、功法小成、丹药限时、材料温养、历练见闻。旧档可进。供已装 0.1.13 的手机热更。"
 }
