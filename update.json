@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.6.0",
-  "version_code": 17,
+  "version": "0.6.1",
+  "version_code": 18,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/556696076",
-  "apk_size": 74786756,
-  "apk_sha256": "8039b4fa0479a2bf52af8c0b047479ae09ef5f33aae62a9dcaeb5bbb7a9f83a7",
-  "release_notes": "长线修仙总架构：新增洞府生产、NPC 门派、丹器研究、秘境奇遇、灵兽培养、洞天据点、软飞升与 90/180 天传承终局；扩展至炼虚境界和四个新位面。存档 schema 5 兼容 v1–v4。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/560727352",
+  "apk_size": 78094341,
+  "apk_sha256": "99e197bec9b76101e4efea4cc1e9791eab7a803a130a39d6a0827e78af5af322",
+  "release_notes": "行囊页夜山预览：全屏背景、背面立绘、五圆环槽位和底栏线标。versionCode 18，可覆盖 0.6.0。"
 }
