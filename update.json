@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.6.1",
-  "version_code": 18,
+  "version": "0.6.2",
+  "version_code": 19,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/560727352",
-  "apk_size": 78094341,
-  "apk_sha256": "99e197bec9b76101e4efea4cc1e9791eab7a803a130a39d6a0827e78af5af322",
-  "release_notes": "行囊页夜山预览：全屏背景、背面立绘、五圆环槽位和底栏线标。versionCode 18，可覆盖 0.6.0。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/560774885",
+  "apk_size": 78098269,
+  "apk_sha256": "959ec82c5f714abe410aeaebb387095f4cf751c1407b16074e80ee3458a6990e",
+  "release_notes": "底栏贴安全区并加大页签；行囊改为 8 列正方格、容量 100、可滑动且隐藏滚动条。versionCode 19，可覆盖 0.6.1。"
 }
