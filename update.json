@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.6.2",
-  "version_code": 19,
+  "version": "0.6.3",
+  "version_code": 20,
   "minimum_version": "0.1.0",
-  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/560774885",
-  "apk_size": 78098269,
-  "apk_sha256": "959ec82c5f714abe410aeaebb387095f4cf751c1407b16074e80ee3458a6990e",
-  "release_notes": "底栏贴安全区并加大页签；行囊改为 8 列正方格、容量 100、可滑动且隐藏滚动条。versionCode 19，可覆盖 0.6.1。"
+  "apk_url": "https://api.github.com/repos/micjason/xiuxian-releases/releases/assets/602938056",
+  "apk_size": 78098353,
+  "apk_sha256": "33585d1fbcd7c2951be596a6446ec0aace383bab566f160176b59312a505c508",
+  "release_notes": "字号和图标按手机可读尺寸加大：正文 44、底栏图标 96、顶栏齿轮 64。versionCode 20，可覆盖 0.6.2。"
 }
